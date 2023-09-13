@@ -20,4 +20,4 @@ Prototipo 1 - Classificador de "HateSpeech":
 - **Dataset:** https://www.kaggle.com/datasets/hrmello/brazilian-portuguese-hatespeech-dataset
 - **Bibliotecas:** Kaggle, Re (Regex), Pandas, Seaborn, Matplotlib, Sklearn, TensorFlow, Keras, Scipy, NLTK, Unidecode e Joblib
 - **Pré-Processamentos:** Remoção de caracteres especiais (e palavras atreladas) com regex, Exclusão de Acentos, Exclusão de Stopwords e palavras abreviadas, Remoção de caracteres em maiusculo , Stemmização, Tokenização e Padding.
-- **Modelo de IA:** Rede Neural (Camadas: Embebedding, Convolução, LSTM e Dense).
+- **Modelo de IA:** Rede Neural (Camadas: Embedding, Convolução, LSTM e Dense).
